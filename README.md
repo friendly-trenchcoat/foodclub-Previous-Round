@@ -1,7 +1,7 @@
 # foodclub-Previous-Round
 Lists previous round's winners on one page
 
-Note: While it doesn't do anything worth being called cheating, its accessing the other pages is techinically against the rules.
+Note: While it doesn't do anything worth being called cheating, its accessing the other pages is ***techinically against the rules***. That being said, you have virtually no chance of being frozen, as far as I know.
 
 <br>
 #
