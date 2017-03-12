@@ -5,6 +5,8 @@ Note: While it doesn't do anything worth being called cheating, its accessing th
 
 ![Screenshot](http://i.imgur.com/IKPBrAv.png "Screenshot")
 
+Tripple-click the names to select them all, and this press CTRL+C to copy them. 
+Now you can easily paste them into the 'Highlight Winners' box (see script below)
 
 <br>
 #
