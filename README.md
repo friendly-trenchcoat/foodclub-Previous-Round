@@ -10,7 +10,7 @@ Tripple-click the names to select them all, and this press CTRL+C to copy them.
 Now you can easily paste them into the 'Highlight Winners' box (see script below)
 
 <br>
-#
+
 ###FoodClub Series:
 * [Previous Round](https://github.com/friendly-trenchcoat/foodclub-Previous-Round)
 * [Highlight Winners](https://github.com/friendly-trenchcoat/Reddit-FoodClub-Highlight-Winners)
