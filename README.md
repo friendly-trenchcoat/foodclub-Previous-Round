@@ -11,7 +11,7 @@ Now you can easily paste them into the 'Highlight Winners' box (see script below
 
 <br>
 
-###FoodClub Series:
+##FoodClub Series:
 * [Previous Round](https://github.com/friendly-trenchcoat/foodclub-Previous-Round)
 * [Highlight Winners](https://github.com/friendly-trenchcoat/Reddit-FoodClub-Highlight-Winners)
 * [Bet Buttons](https://github.com/friendly-trenchcoat/Reddit-FoodClub-BetButtons)
