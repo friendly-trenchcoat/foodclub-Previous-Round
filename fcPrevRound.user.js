@@ -1,7 +1,9 @@
 // ==UserScript==
-// @author         friendly-trenchcoat
 // @name           Neopets - Food Club Previous Round
+// @namespace      https://github.com/friendly-trenchcoat
+// @version        1.2
 // @description    Lists previous round's winners on one page.
+// @author         friendly-trenchcoat
 // @include        http://www.neopets.com/pirates/foodclub.phtml?type=previous
 // @require	       http://code.jquery.com/jquery-latest.min.js
 // ==/UserScript==
